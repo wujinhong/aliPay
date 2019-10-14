@@ -1,0 +1,6 @@
+example/node_modules/
+example/bin/
+.DS_Store
+example/.idea/workspace.xml
+AliPayJavaSnTool/.idea/workspace.xml
+example/package-lock.json
