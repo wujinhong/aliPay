@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/example/.idea/aliPay.iml" filepath="$PROJECT_DIR$/example/.idea/aliPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk/.idea/sdk.iml" filepath="$PROJECT_DIR$/sdk/.idea/sdk.iml" />
     </modules>
   </component>
 </project>

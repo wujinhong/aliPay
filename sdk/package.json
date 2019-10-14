@@ -1,0 +1,29 @@
+{
+  "name": "alipay_sdk2",
+  "version": "1.0.3",
+  "description": "支付宝推荐的公钥证书方式模式SDK",
+  "main": "App.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^9.3.0",
+    "typescript": "^2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujinhong/aliPay.git"
+  },
+  "keywords": [
+    "alipay",
+    "sdk",
+    "aliPaySDK"
+  ],
+  "author": "Gordon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wujinhong/aliPay/issues"
+  },
+  "homepage": "https://github.com/wujinhong/aliPay#readme"
+}

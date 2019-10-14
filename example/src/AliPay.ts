@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import { resolve } from "path";
-import { AliPayUtil, RsaSignParam } from "./AliPayUtil";
+import { AliPayUtil, RsaSignParam } from "alipay_sdk2/AliPayUtil";
 
 export class AliPay
 {
