@@ -12,10 +12,10 @@ npm install alipay_sdk2
 
 从github源码下载工具（AliPayJavaSnTool）
 
-AliPayJavaSnTool用于生成三个证书序列号：
-1、app_cert_sn
-2、alipay_cert_sn
-3、alipay_root_cert_sn
+### AliPayJavaSnTool用于生成三个证书序列号：
+#### 1、app_cert_sn
+#### 2、alipay_cert_sn
+#### 3、alipay_root_cert_sn
 
 [帮助文档](https://github.com/wujinhong/aliPay/raw/master/公钥证书方式模式.docx)
 
