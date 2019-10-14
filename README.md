@@ -17,7 +17,7 @@ AliPayJavaSnTool用于生成三个证书序列号：
 
 [帮助文档](https://github.com/wujinhong/aliPay/raw/master/公钥证书方式模式.docx)
 
-[SDK](https://registry.npmjs.org/alipay_sdk2)
+[SDK](https://www.npmjs.com/package/alipay_sdk2)
 
 
 ## 开发
