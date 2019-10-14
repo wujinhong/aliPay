@@ -13,9 +13,9 @@ npm install alipay_sdk2
 #### 2、alipay_cert_sn
 #### 3、alipay_root_cert_sn
 
-[帮助文档](https://github.com/wujinhong/aliPay/raw/master/公钥证书方式模式.docx)
+[帮助文档 https://github.com/wujinhong/aliPay/raw/master/公钥证书方式模式.docx](https://github.com/wujinhong/aliPay/raw/master/公钥证书方式模式.docx)
 
-[SDK](https://www.npmjs.com/package/alipay_sdk2)
+[SDK https://www.npmjs.com/package/alipay_sdk2](https://www.npmjs.com/package/alipay_sdk2)
 
 
 ## 开发
