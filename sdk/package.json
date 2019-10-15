@@ -1,6 +1,6 @@
 {
   "name": "alipay_sdk2",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "支付宝推荐的公钥证书方式模式SDK",
   "main": "App.js",
   "scripts": {
@@ -17,8 +17,12 @@
   },
   "keywords": [
     "alipay",
+    "alipay-sdk",
+    "alipaysdk",
+    "alipay_sdk",
     "sdk",
-    "aliPaySDK"
+    "aliPaySDK",
+    "aliPay_SDK"
   ],
   "author": "Gordon",
   "license": "ISC",

@@ -1,0 +1,8 @@
+.DS_Store
+
+src/
+
+.idea/
+node_modules/
+package-lock.json
+tsconfig.json
