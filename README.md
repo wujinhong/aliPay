@@ -3,7 +3,7 @@
 
 ## 安装
 
-npm install alipay_sdk2
+### npm install alipay_sdk2
 
 ### typescript使用方法：
 #### 1、this.aliPay = new AliPayUtil( this.alipay_cert_sn, this.privateKeyPath );//初使化
