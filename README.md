@@ -9,11 +9,13 @@ npm install alipay_sdk2
 #### 1、this.aliPay = new AliPayUtil( this.alipay_cert_sn, this.privateKeyPath );//初使化
 #### 2、this.aliPay.getPayCode( rsaSignParam );//生成APP支付字符串
 #### 3、this.aliPay.rsaCheck( req.body );//支付回调验签
+#### 详细使用方法查看 example/src/AliPay.ts
 
 ### javascript使用方法
 #### 1、this.aliPay = new AliPayUtil_1.AliPayUtil( this.alipay_cert_sn, this.privateKeyPath );//初使化
 #### 2、this.aliPay.getPayCode( rsaSignParam );//生成APP支付字符串
 #### 3、this.aliPay.rsaCheck( req.body );//支付回调验签：
+#### 详细使用方法，查看项目编译生成的*.js文件 example/bin/AliPay.js
 
 ## 使用
 
