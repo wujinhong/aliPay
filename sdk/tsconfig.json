@@ -7,8 +7,8 @@
     "sourceMap": false,
     "declaration": true,
     "declarationMap": false,
-    "target": "es2017",
-    "lib": ["es6", "dom", "es2016"],
+    "target": "es2019",
+    "lib": ["es6", "dom", "es2019"],
     "outDir": "./",
     "watch": false
   },
