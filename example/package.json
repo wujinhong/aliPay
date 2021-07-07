@@ -7,7 +7,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "alipay_sdk2": "^1.0.9",
+    "alipay_sdk2": "^1.1.1",
     "body-parser": "~1.18.2",
     "body-parser-xml": "^1.1.0",
     "cookie-parser": "~1.4.3",

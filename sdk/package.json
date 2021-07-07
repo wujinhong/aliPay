@@ -1,6 +1,6 @@
 {
   "name": "alipay_sdk2",
-  "version": "1.0.9",
+  "version": "1.1.1",
   "description": "支付宝推荐的公钥证书方式模式SDK",
   "main": "App.js",
   "scripts": {
